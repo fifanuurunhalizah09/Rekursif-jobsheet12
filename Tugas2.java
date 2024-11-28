@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PenjumlahanRekursif {
+public class Tugas2 {
     static int hitungPenjumlahan(int n, StringBuilder deret) {
         if (n == 0) {
             return 0;  
